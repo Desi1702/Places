@@ -22,7 +22,7 @@
             Naam_4 = Naam_4?.Trim();
             Code_5 = Code_5?.Trim();
             Naam_6 = Naam_6?.Trim();
-            Code_7 = Code_7?.Trim();
+            Code_7 = Code_7?.Trim();  
         }
     }
 }
